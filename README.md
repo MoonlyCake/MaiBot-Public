@@ -2,7 +2,6 @@
 
 这是基于 [MaiBot](https://github.com/Mai-with-u/MaiBot) **v1.3.12**（上游提交 [5c7637e](https://github.com/Mai-with-u/MaiBot/commit/5c7637e6913c84d1c3d5e742fa9e95a7e70d3501)）修改的独立公开版本，并合入了部分后续上游更新。主要改动包括回复调度和低活跃兜底、黑话学习、记忆与知识检索、GIF 理解和图片缓存，以及 WebUI 自适应和插件商店换源。
 
-本公开版移除了 ChatGPT 套餐 OAuth 接入，需自行配置模型 API；不包含原实例的配置、凭据、聊天记录、记忆、知识库和本机安装的插件。WebUI 使用密码认证。上游自动发布工作流已停用并保存在 `.github/workflows-disabled/`；各部分许可证及版权声明仍以对应文件为准。
 
 <a id="-双语--bilingual"></a>
 
